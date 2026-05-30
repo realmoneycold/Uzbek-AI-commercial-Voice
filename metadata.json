@@ -1,0 +1,6 @@
+{
+  "name": "Uzbek Professional TTS Ad Studio",
+  "description": "Professional Text-to-Speech voiceover engine and AI-powered ad copy generator optimized for Uzbek commercials, broadcasts, and high-quality narration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
